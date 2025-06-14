@@ -4,7 +4,6 @@
 
 This repository contains a simple yet effective **Calculator Web App** built using **HTML**, **CSS**, and **JavaScript**. It demonstrates my ability to design intuitive and interactive front-end applications with clean and maintainable code.
 
----
 
 ## 📋 Table of Contents
 
